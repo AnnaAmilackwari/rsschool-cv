@@ -6,3 +6,10 @@
 
 ## About Me
 _I am trying to learn JS at Rolling Scopes School_
+
+## Skills
+- HTML
+- CSS
+- Higher Mathematics
+
+
