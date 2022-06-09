@@ -26,3 +26,11 @@ function even_or_odd(number) {
 1. **Specialist degree, Mathematics** Immanuel Kant Baltic Federal University
 2. **Master's degree, Applied mathematics and computer science** Immanuel Kant Baltic Federal University
 
+## Languages
+* Mother tongue(s): 
+    * Russian
+    * Georgian
+* Other language(s): 
+    * English (B2)
+    * French (A1)
+    
