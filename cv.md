@@ -22,3 +22,7 @@ function even_or_odd(number) {
 
 ```
 
+## Education
+1. **Specialist degree, Mathematics** Immanuel Kant Baltic Federal University
+2. **Master's degree, Applied mathematics and computer science** Immanuel Kant Baltic Federal University
+
