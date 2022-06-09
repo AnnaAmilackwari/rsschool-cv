@@ -16,7 +16,7 @@ _I am trying to learn JS at Rolling Scopes School_
 _Creating a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers_
 
 ```
-function even_orodd(number) {
+function even_or_odd(number) {
     return number % 2 === 0 ? 'Even' : 'Odd';
 }
 
