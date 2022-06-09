@@ -12,4 +12,13 @@ _I am trying to learn JS at Rolling Scopes School_
 - CSS
 - Higher Mathematics
 
+## Code Examples
+_Creating a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers_
+
+```
+function even_orodd(number) {
+    return number % 2 === 0 ? 'Even' : 'Odd';
+}
+
+```
 
